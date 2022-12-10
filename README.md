@@ -1,4 +1,4 @@
-# SQL Datatypes
+# My SQL Cheatsheet
 Text types
 
 | Data type        | Description                                                                                                                                                                                                                                                                                      |
